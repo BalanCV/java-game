@@ -87,3 +87,7 @@ grant the user some capacity to interact with this environment.
 
 # Screenshots:
 ![plot](./p1.png)
+![plot](./p2.png)
+![plot](./p3.png)
+![plot](./p4.png)
+![plot](./p5.png)
